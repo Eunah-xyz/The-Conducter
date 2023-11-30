@@ -14,7 +14,7 @@ Use your index finger (or just your whole hand) to control which device is playi
 4. Make sure that your python version is lower or equal then 3.10
 5. Run `pip install -r requirements.txt`
 6. You need to set up spotify keys as a json file and place it in the "gitignore" folder as "spotify_keys.json"
-7. Run 'jupyter notebook' to open the project in jupyter
+7. Run `jupyter notebook` to open the project in jupyter
 
 
 
